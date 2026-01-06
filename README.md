@@ -1,11 +1,11 @@
-# Hi there, I'm Christian Akabueze! 👋
+# Hi there, I'm Christian Akabueze! 
 
-### 👨‍💻 Frontend Developer | Software Engineering Student | Aspiring Fullstack Engineer
+###  Frontend Developer | Software Engineering Student | Aspiring Fullstack Engineer
 I am a passionate developer from Nigeria, currently studying Software Engineering at FUTO. I specialize in building pixel-perfect, responsive websites using modern frontend technologies.
 
-- 🔭 I’m currently working on: **AcademiaTrack, Personal Portfolio & Fitness Hub**
-- 🌱 I’m currently learning: **Advanced JavaScript & Frontend Architecture**
-- 💬 Ask me about: **HTML, CSS, Tailwind, & JavaScript**
+-  I’m currently working on: **AcademiaTrack, Personal Portfolio & Fitness Hub**
+- I’m currently learning: **Advanced JavaScript & Frontend Architecture**
+-  Ask me about: **HTML, CSS, Tailwind, & JavaScript**
 - 📫 How to reach me: **akabuezechris432@gmail.com**
 
 ---
@@ -23,7 +23,7 @@ I am a passionate developer from Nigeria, currently studying Software Engineerin
 
 ---
 
-### 🚀 Check out my Portfolio
+### Check out my Portfolio
 <a href="https://devchristian.vercel.app/">
   <img src="https://img.shields.io/badge/Visit_My_Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
 </a>
