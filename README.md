@@ -74,10 +74,10 @@ I focus on writing **clean code, building responsive interfaces, and deploying p
 # 📊 GitHub Stats
 
 <p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Christian-fx&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christian-fx &show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-fx &layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-fx&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </p>
 
