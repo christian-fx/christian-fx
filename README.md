@@ -165,10 +165,6 @@
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Christian-fx&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Christian-fx/Christian-fx/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
 </p>
 
