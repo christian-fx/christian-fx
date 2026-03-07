@@ -107,15 +107,6 @@
 <br/>
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-fx&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
-
 ## Contribution Graph
 
 <p align="center">
