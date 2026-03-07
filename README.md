@@ -107,17 +107,9 @@
 <br/>
 
 ---
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Christian-fx/Christian-fx/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
-</p>
-
----
-
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=fadeIn"/>
 
 <p align="center">
-  <em>Building the web one component at a time — from Owerri to everywhere.</em>
+  <em>Building the web one component at a time.</em>
 </p>
