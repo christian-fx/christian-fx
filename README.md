@@ -108,47 +108,6 @@
 
 ---
 
-## Ask Me About
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="220">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/><br/>
-        <sub>Component architecture, hooks, performance optimization, and state management patterns in React applications.</sub>
-      </td>
-      <td align="center" width="220">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br/><br/>
-        <sub>Typing React apps, defining interfaces, generic utilities, and integrating TypeScript into existing projects.</sub>
-      </td>
-      <td align="center" width="220">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><br/><br/>
-        <sub>Authentication flows, Firestore data modeling, security rules, and real-time database architecture.</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="220">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br/><br/>
-        <sub>Responsive layouts, design systems, custom themes, and building consistent UI components at scale.</sub>
-      </td>
-      <td align="center" width="220">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/><br/><br/>
-        <sub>Routing, SSR vs SSG decisions, API routes, and structuring production-ready Next.js applications.</sub>
-      </td>
-      <td align="center" width="220">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/><br/><br/>
-        <sub>Deploying and managing frontend projects, environment variables, preview deployments, and CI/CD setup.</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
----
-
 ## GitHub Stats
 
 <p align="center">
