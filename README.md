@@ -107,6 +107,24 @@
 <br/>
 
 ---
+
+## GitHub Stats
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christian-fx&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christian-fx&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-fx&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF"/>
+</p>
+
+<br/>
+
+---
+
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer&animation=fadeIn"/>
 
